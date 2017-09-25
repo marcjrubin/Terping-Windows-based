@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterBookingSystem", "InterpreterBookingSystem\InterpreterBookingSystem.csproj", "{7CEBE490-9EEC-4E60-AFC2-C238DF2F574E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterBookingSystemTest", "InterpreterBookingSystemTest\InterpreterBookingSystemTest.csproj", "{04078A02-6ECC-495B-BA76-120596451755}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{EE8C6D28-1F1C-4771-A46D-6712B97A9C14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CEBE490-9EEC-4E60-AFC2-C238DF2F574E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEBE490-9EEC-4E60-AFC2-C238DF2F574E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEBE490-9EEC-4E60-AFC2-C238DF2F574E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04078A02-6ECC-495B-BA76-120596451755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04078A02-6ECC-495B-BA76-120596451755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04078A02-6ECC-495B-BA76-120596451755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE8C6D28-1F1C-4771-A46D-6712B97A9C14}.Debug|Any CPU.ActiveCfg = Release
+		{EE8C6D28-1F1C-4771-A46D-6712B97A9C14}.Debug|Any CPU.Build.0 = Release
+		{EE8C6D28-1F1C-4771-A46D-6712B97A9C14}.Release|Any CPU.ActiveCfg = Release
+		{EE8C6D28-1F1C-4771-A46D-6712B97A9C14}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
